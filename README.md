@@ -51,7 +51,7 @@ Em seguida, conecte o recurso de serviços de IA do Azure provisionado acima ao 
 >   - Na barra na parte superior da página, selecione **Configurações (⚙)**.
 >   - Na página **Configurações**, visualize a guia **Recursos**.
 >   - Selecione o recurso que você acabou de criar e selecione **Alternar recurso**. Certifique-se de que a identidade gerenciada esteja **habilitada**.
-
+>   ![image](https://github.com/juliocandrade/azure-sentiment-and-opinions-Analyze/assets/66694754/d1a6044a-bafe-45eb-b33a-c5c8de1c7437)
 >   - No topo da página, selecione **Language Studio** para retornar à página inicial do Language Studio.
 
 </details>
